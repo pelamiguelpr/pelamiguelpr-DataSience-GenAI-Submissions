@@ -6,7 +6,7 @@ This repository contains all assignment notebooks, data anlysis, and code develo
 
 ## Table of Contents 
 
-- [Assignment 1: Data and Feature Engineering](./Assignment_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb)
+- [Assignment 1: Data and Feature Engineering](Assignment_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb)
 
 ## License 
 
