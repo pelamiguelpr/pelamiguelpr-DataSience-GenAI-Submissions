@@ -12,6 +12,7 @@ This repository contains all assignment notebooks, data anlysis, and code develo
 - [Assignment 4: Transforms and Concatenation](Assignment_4/2_04_Transforms_and_Concatenation_COMPLETED.ipynb)
 - [Assignmnet 5: Exploratory Data Analysis](Assignment_5/2_05_Exploratory_Data_Analysis_COMPLETED.ipynb)
 - [Assignment 6: Decision Trees](Assignment_6/4_01_Decision_Trees_COMPLETED.ipynb)
+- [Assignment 7: Modelling Hackathon](Assignment_7/5_02_Modelling_Hackathon_COMPLETED.ipynb)
 
 ## License 
 
